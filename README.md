@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
- - **🎓 Education** : Undergraduate at ZJNU, XDU master soon to be, majored in Software Engineering, 
+ - **🎓 Education** : Undergraduate at ZJNU, soon-to-be Master's student at XDU, majoring in Software Engineering.
  - **👨‍💻 Work** : Full stack developer interning at [Taelor](https://taelor.style/). [Clothing rental at Taelor](https://taelor.style/pages/membership)
 
 ---
