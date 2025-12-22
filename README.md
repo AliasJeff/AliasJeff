@@ -50,8 +50,6 @@
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img
-    src="https://streak-stats.demolab.com?user=AliasJeff"
-  />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=AliasJeff)](https://git.io/streak-stats)
 </details>
 
