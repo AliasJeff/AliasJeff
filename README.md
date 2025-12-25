@@ -1,9 +1,7 @@
 ## Hi there! 👋 I'm Jeffery
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AliasJeff&label=Profile%20views&color=0e75b6&style=flat" alt="AliasJeff" />
-  <a href="https://aliasjeff.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-aliasjeff.github.io-blue?style=flat" />
-  </a>
+  <a href="https://aliasjeff.github.io/" target="_blank">https://aliasjeff.github.io/</a>
 </p>
 
 ---
