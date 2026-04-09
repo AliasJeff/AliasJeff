@@ -53,6 +53,6 @@
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=AliasJeff)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=AliasJeff)](https://git.io/streak-stats)
 </details>
 
