@@ -11,8 +11,8 @@
  - **📝 Blog**: [https://aliasjeff.github.io/](https://aliasjeff.github.io/)
  - **🎓 Education** : Software Engineering M.S. student, Xidian University.
  - **👨‍💻 Work** :
-   - Backend Development Intern | User Growth Department, IEG, Tencent
-   - Full Stack Development Intern | [Taelor Inc.](https://taelor.style/)
+   - **Tencent** | Backend Development Intern, User Value-Added Dept., IEG
+   - **[Taelor Inc.](https://taelor.style/)** | Full Stack Development Intern
 
 ---
 
